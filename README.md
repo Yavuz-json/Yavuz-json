@@ -1,3 +1,3 @@
 - Hi, I’m @Yavuz-json
-- I’m interested in desktop delvelopment
-- I’m currently learning C#
+- Masaüstü geliştirme ile ilgileniyorum
+- Şuan C# öğreniyorum
