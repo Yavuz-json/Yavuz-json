@@ -1,3 +1,3 @@
-- Hi, I’m @Yavuz-json
-- Masaüstü geliştirme ile ilgileniyorum
-- Şuan C# öğreniyorum
+mayonnaise on an escalator
+its going upstairs so
+see you later
